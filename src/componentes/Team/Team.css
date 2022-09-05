@@ -1,0 +1,25 @@
+.team{
+    text-align: center;
+    padding: 32px;
+
+}
+.team h3{
+    font-size: 32px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+
+}
+
+.team .agentes{
+    display: flex;
+    margin-top: 32px;
+    flex-wrap: wrap;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
